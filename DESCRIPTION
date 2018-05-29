@@ -1,0 +1,10 @@
+Package: semente
+Type: Package
+Title: Template for data science analysis
+Version: 0.1.0
+Author: Nazareno Andrade
+Maintainer: Nazareno Andrade <nazareno@computacao.ufcg.edu.br>
+Description: Folders structure and files to quickly seed a data analysis project.
+License: GPL 3.0
+Encoding: UTF-8
+LazyData: true
